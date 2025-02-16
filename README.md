@@ -26,7 +26,7 @@ I am a **Full-Stack Web App Developer** with **15 years of experience** in desig
 - **PHP**
 - **Python**
 - **Go**
-- **HTML5 & CSS3 (SCSS, Tailwind CSS)**
+- **HTML5 & CSS3 (SCSS, Tailwind CSS, Bootstrap)**
 - **SQL & NoSQL (MySQL, PostgreSQL, MongoDB)**
 
 ---
@@ -40,7 +40,7 @@ I am a **Full-Stack Web App Developer** with **15 years of experience** in desig
 
 #### 🏢 **Backend**
 - Node.js (Express, NestJS)
-- PHP (Laravel, CodeIgniter, Symfony, CakePHP)
+- PHP (Laravel, CodeIgniter, Symfony, CakePHP, Custom Frameworks)
 - Python (Django, Flask)
 
 #### 🖥️ **CMS & Open Source Platforms**
@@ -49,6 +49,11 @@ I am a **Full-Stack Web App Developer** with **15 years of experience** in desig
 - Drupal
 - Magento
 - OpenCart
+
+#### 🏛 **Enterprise Solutions**
+- Custom Framework Development
+- CRM Systems
+- ERP Systems
 
 #### 📡 **APIs & Communication**
 - RESTful APIs
