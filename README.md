@@ -1,12 +1,61 @@
-# Hi there, I'm [Adeel Mughal] 👋
+## 👋 Hello, I'm Adeel Mughal!
 
-**I'm Adeel Mughal, an experienced Full Stack Web Developer with over 15 years of experience in web app development**
+I am a **Full-Stack Web App Developer** with **15 years of experience** in designing, developing, and optimizing web applications. Passionate about clean code, scalable architectures, and cutting-edge technologies.
 
-🔹 Web Application Developer  
-🔹 Specializing in Laravel, PHP, and Tailwind CSS
+---
 
-## 🚀 Skills
-- PHP (Laravel)
-- JavaScript
-- Tailwind CSS
-- GitHub & Open Source
+### 🚀 My Favorite Tools for Web Development
+
+#### 🖥️ **Frontend Development**
+- **Code Editor:** VS Code, WebStorm
+- **Version Control:** Git & GitHub
+- **Design Tools:** Figma, Adobe XD
+- **Testing:** Jest, Cypress
+
+#### 🛠️ **Backend Development**
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Web Servers:** Apache, Nginx
+- **DevOps & CI/CD:** Docker, Kubernetes, GitHub Actions
+- **Cloud Providers:** AWS, DigitalOcean, Vercel, Firebase
+
+---
+
+### 🏆 Programming Languages I Use
+- **JavaScript (ES6+)**
+- **TypeScript**
+- **PHP**
+- **Python**
+- **Go**
+- **HTML5 & CSS3 (SCSS, Tailwind CSS)**
+- **SQL & NoSQL (MySQL, PostgreSQL, MongoDB)**
+
+---
+
+### 🏗️ Frameworks & Libraries I Work With
+
+#### 🌐 **Frontend**
+- React.js / Next.js
+- Vue.js / Nuxt.js
+- Tailwind CSS / Bootstrap
+
+#### 🏢 **Backend**
+- Node.js (Express, NestJS)
+- PHP (Laravel, CodeIgniter, Symfony, CakePHP)
+- Python (Django, Flask)
+
+#### 🖥️ **CMS & Open Source Platforms**
+- WordPress
+- Joomla
+- Drupal
+- Magento
+- OpenCart
+
+#### 📡 **APIs & Communication**
+- RESTful APIs
+- GraphQL
+- WebSockets (Socket.io)
+
+---
+
+### 📫 Contact Me
+[![Website](https://img.shields.io/badge/My%20Website-adeelmughal.com-blue?style=flat&logo=Google%20Chrome)](https://adeelmughal.com)
