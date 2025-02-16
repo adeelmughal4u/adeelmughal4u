@@ -35,12 +35,16 @@ I am a **Full-Stack Web App Developer** with **15 years of experience** in desig
 
 #### 🌐 **Frontend**
 - React.js / Next.js
+- Angular
 - Vue.js / Nuxt.js
+- HTML5
+- PixiJS
 - Tailwind CSS / Bootstrap
 
 #### 🏢 **Backend**
 - Node.js (Express, NestJS)
 - PHP (Laravel, CodeIgniter, Symfony, CakePHP, Custom Frameworks)
+- .Net / .Net Core
 - Python (Django, Flask)
 
 #### 🖥️ **CMS & Open Source Platforms**
@@ -49,16 +53,45 @@ I am a **Full-Stack Web App Developer** with **15 years of experience** in desig
 - Drupal
 - Magento
 - OpenCart
+- Shopify
+- WooCommerce
+- BigCommerce
 
 #### 🏛 **Enterprise Solutions**
 - Custom Framework Development
 - CRM Systems
 - ERP Systems
 
+#### 📊 **Data Analytics**
+- Power BI
+- Tableau
+- Qliksense
+- Lucidchart
+- MS Excel
+
 #### 📡 **APIs & Communication**
 - RESTful APIs
 - GraphQL
 - WebSockets (Socket.io)
+
+#### 🚀 **Deployment**
+- AWS
+- Docker
+- Azure
+- Google Cloud
+
+#### 📱 **Mobile Apps**
+- React Native
+- Android
+- iOS
+- Phonegap
+
+#### 🗄 **Database Technologies**
+- MySQL
+- MS SQL
+- PostgreSQL
+- MongoDB
+- Access
 
 ---
 
