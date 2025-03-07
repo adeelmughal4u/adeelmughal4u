@@ -97,5 +97,5 @@ I am a **Full-Stack Web App Developer** with **15 years of experience** in desig
 
 ### 📫 Contact Me
 
-[![Website](https://img.shields.io/badge/My%20Website-adeelmughal.com-blue?style=flat&logo=Google%20Chrome)](https://adeelmughal.com)  
+[![Website](https://img.shields.io/badge/My%20Website-adeelmughal.com-blue?style=flat&logo=Google%20Chrome)](https://adeel.info)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adeelmughal4u-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/adeelmughal4u/)
